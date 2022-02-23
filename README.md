@@ -11,7 +11,7 @@
  - [x] ![HTML](https://img.shields.io/badge/HTML-003464?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS-003464?style=flat&logo=css3)
  - [x] ![JavaScript](https://img.shields.io/badge/JavaScript-003464?style=flat&logo=javascript) ![Ajax](https://img.shields.io/badge/Ajax-003464?style=flat&logo=Ajax)
  - [x] ![Python](https://img.shields.io/badge/Python-003464?style=flat&logo=python) ![Django](https://img.shields.io/badge/Django-003464?style=flat&logo=django) ![TelegramBot](https://img.shields.io/badge/TelegramBot-003464?style=flat&logo=telegram)
- - [x] ![PostgreSql](https://img.shields.io/badge/MySql-003464?style=flat&logo=MySql&logoColor=%23eeeeee) ![SqLite](https://img.shields.io/badge/SqLite-003464?style=flat&logo=SqLite)
+ - [x] ![PostgreSql](https://img.shields.io/badge/PostgreSql-003464?style=flat&logo=PostgreSql&logoColor=%23eeeeee) ![SqLite](https://img.shields.io/badge/SqLite-003464?style=flat&logo=SqLite)
  - [x] ![Git](https://img.shields.io/badge/Git-003464?style=flat&logo=git) ![Github](https://img.shields.io/badge/Github-003464?style=flat&logo=Github)
  - [x] ![QT](https://img.shields.io/badge/QT-003464?style=flat&logo=qt)
 
