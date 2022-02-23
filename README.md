@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - I am founder of [ITEG GrouP](https://iteg.uz)
-- **📫 Contact me** [![Xafizov Aslbek]](https://t.me/Aslbek7733)
+- **📫 Contact me** [![Xafizov Aslbek](https://img.shields.io/badge/Aslbek7733-003474?style=flat&logo=telegram)](https://t.me/Aslbek7733)
 
 **📚 My skills**
  - [x] ![C++](https://img.shields.io/badge/C++-003464?style=flat&logo=c%2B%2B&logoColor=%230099ee)
