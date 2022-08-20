@@ -1,4 +1,4 @@
-**👋 Hi, I’m @XafizovAslbek**
+**👋 Hi, I’m Xafizov Aslbek**
 - 👀 I’m interested in sport programming.
 - 🌱 I’m currently learning Django framework.
 - 💞️ I’m looking to collaborate on ...
