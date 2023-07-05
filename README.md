@@ -1,6 +1,6 @@
-**👋 Hi, I’m Xafizov Aslbek**
+**Hi, I’m Xafizov Aslbek**
 - I’m interesting in sport programming.
-- 🌱 I’m currently learning data science.
+- I’m currently learning data science.
 - I’m looking to collaborate on ...
 - How to reach me ...
 - I am founder of [ITEG GrouP](https://iteg.uz)
