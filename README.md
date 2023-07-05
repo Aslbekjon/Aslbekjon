@@ -8,7 +8,7 @@
 
 **📚 My skills**
 - [x] ![Python](https://img.shields.io/badge/Python-003464?style=flat&logo=python) ![Django](https://img.shields.io/badge/Django-003464?style=flat&logo=django) ![DRF](https://img.shields.io/badge/DRF-003464?style=flat&logo=drf)
- - [x] ![Numpy](https://img.shields.io/badge/Numpy-003464?style=flat&logo=Numpy) ![Pandas](https://img.shields.io/badge/HTML-003464?style=flat&logo=html5) ![OPenCV](https://img.shields.io/badge/HTML-003464?style=flat&logo=html5)
+ - [x] ![Numpy](https://img.shields.io/badge/Numpy-003464?style=flat&logo=Numpy) ![Pandas](https://img.shields.io/badge/Pandas-003464?style=flat&logo=Pandas) ![OPenCV](https://img.shields.io/badge/OPenCV-003464?style=flat&logo=OPenCV)
  - [x] ![HTML](https://img.shields.io/badge/HTML-003464?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS-003464?style=flat&logo=css3)
  - [x] ![JavaScript](https://img.shields.io/badge/JavaScript-003464?style=flat&logo=javascript) ![Ajax](https://img.shields.io/badge/Ajax-003464?style=flat&logo=Ajax)
  
