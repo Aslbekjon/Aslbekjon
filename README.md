@@ -17,9 +17,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aslbekjon&layout=compact&theme=tokyonight)
 -->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aslbekjon/)
-
-<img alt='analytics' src='https://profile-counter.glitch.me/Aslbekjon/count.svg' width='0px'>
 
 <!-- ![Snake](https://raw.githubusercontent.com/Aslbekjon/Aslbekjon/main/eo.svg) -->
 
