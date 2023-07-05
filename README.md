@@ -3,14 +3,15 @@
 - I’m currently learning data science.
 - I’m looking to collaborate on ...
 - How to reach me ...
-- I am founder of [ITEG GrouP](https://iteg.uz)
+- I am founder of [ITEG GrouP](https://redrose.uz)
 - **📫 Contact me** [![Xafizov Aslbek](https://img.shields.io/badge/Aslbek7733-003474?style=flat&logo=telegram)](https://t.me/Aslbek7733)
 
 **📚 My skills**
+- [x] ![Python](https://img.shields.io/badge/Python-003464?style=flat&logo=python) ![Django](https://img.shields.io/badge/Django-003464?style=flat&logo=django) ![TelegramBot](https://img.shields.io/badge/TelegramBot-003464?style=flat&logo=telegram)
  - [x] ![C++](https://img.shields.io/badge/C++-003464?style=flat&logo=c%2B%2B&logoColor=%230099ee)
  - [x] ![HTML](https://img.shields.io/badge/HTML-003464?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS-003464?style=flat&logo=css3)
  - [x] ![JavaScript](https://img.shields.io/badge/JavaScript-003464?style=flat&logo=javascript) ![Ajax](https://img.shields.io/badge/Ajax-003464?style=flat&logo=Ajax)
- - [x] ![Python](https://img.shields.io/badge/Python-003464?style=flat&logo=python) ![Django](https://img.shields.io/badge/Django-003464?style=flat&logo=django) ![TelegramBot](https://img.shields.io/badge/TelegramBot-003464?style=flat&logo=telegram)
+ 
  - [x] ![PostgreSql](https://img.shields.io/badge/PostgreSql-003464?style=flat&logo=PostgreSql&logoColor=%23eeeeee) ![SqLite](https://img.shields.io/badge/SqLite-003464?style=flat&logo=SqLite)
  - [x] ![Git](https://img.shields.io/badge/Git-003464?style=flat&logo=git) ![Github](https://img.shields.io/badge/Github-003464?style=flat&logo=Github)
  - [x] ![QT](https://img.shields.io/badge/QT-003464?style=flat&logo=qt)
