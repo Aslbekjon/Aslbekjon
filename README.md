@@ -13,10 +13,10 @@
  - [x] ![Git](https://img.shields.io/badge/Git-003464?style=flat&logo=git) ![Github](https://img.shields.io/badge/Github-003464?style=flat&logo=Github)
 
 
-![Dynamic name](https://github-readme-stats.vercel.app/api?username=Aslbekjon&show_icons=true&theme=tokyonight)
+<!-- ![Dynamic name](https://github-readme-stats.vercel.app/api?username=Aslbekjon&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aslbekjon&layout=compact&theme=tokyonight)
-
+-->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aslbekjon/)
 
 <img alt='analytics' src='https://profile-counter.glitch.me/Aslbekjon/count.svg' width='0px'>
